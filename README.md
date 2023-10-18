@@ -1,18 +1,19 @@
-<img src="https://user-images.githubusercontent.com/138806744/276367744-08dc669a-154b-42c5-90f1-ba56e41ba8cd.png">
+<img style="border-radius:10px" src="https://user-images.githubusercontent.com/138806744/276367744-08dc669a-154b-42c5-90f1-ba56e41ba8cd.png">
  
 ## Hii, My name is Nathan, and this is my GitHub!!!
 <div style="display: inline_block" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Ntanzi07" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ntanzi07&theme=transparent&show_icons=true&rank_icon=github" />
+
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ntanzi07&layout=compact&langs_count=8&card_width=320" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ntanzi07&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 <br>
 <br>
 </div>
   
---> Estudante de Engenharia da Computação na Facens 📘📘<br>
+--> Estudante de **Engenharia da Computação** na Facens 📘📘<br>
 Aprendendo diversas linguagens de programação mas no momento, mais interessado em web! 
 <div style="display: inline_block" margin:"30px">
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +24,7 @@ Aprendendo diversas linguagens de programação mas no momento, mais interessado
   </div>
   <br>
 --> Amo musica no geral, toco alguns instrumentos! e faço alguns remix para postar no meu SoundCloud 🎵🎵🎵
+<a href="https://soundcloud.com/nathan_tanzi" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a> 
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/138806744/276378874-92d4172c-125d-4a19-97e6-00764a5fb9c4.png">
