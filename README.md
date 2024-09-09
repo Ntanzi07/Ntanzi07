@@ -15,13 +15,6 @@
   
 --> Estudante de **Engenharia da Computação** na Facens 📘📘<br>
 Aprendendo diversas linguagens de programação mas no momento, mais interessado em web! 
-<div style="display: inline_block" margin:"30px">
-      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
   <br>
 --> Amo musica no geral, toco alguns instrumentos! e faço alguns remix para postar no meu SoundCloud 🎵🎵🎵
 <a href="https://soundcloud.com/nathan_tanzi" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a> 
