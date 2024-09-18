@@ -14,7 +14,7 @@
 </div>
   
 --> Estudante de **Engenharia da Computação** na Facens 📘📘<br>
-Aprendendo diversas linguagens de programação mas no momento, mais interessado em web! 
+Aprendendo diversas linguagens de programação mas no momento, mais interessado em Java! 
   <br>
 --> Amo musica no geral, toco alguns instrumentos! e faço alguns remix para postar no meu SoundCloud 🎵🎵🎵
 <a href="https://soundcloud.com/nathan_tanzi" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a> 
