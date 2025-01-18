@@ -35,8 +35,7 @@ Play acoustic guitar and piano.
 
 ## 📫 How to find me:
 <div align="center"> 
-  <a href="https://www.instagram.com/nathan_tanzi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-131415?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href=""><img src="https://img.shields.io/badge/Gmail-131415?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/nat.tanzi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-131415?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nathan-tanzi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-131415?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://soundcloud.com/nathan_tanzi" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-131415?style=for-the-badge&logo=soundcloud&logoColor=white"></a> 
 </div>
