@@ -17,12 +17,11 @@
 <br>
 
 ## ⭐ About Me
-HII! My name is **Nathan**, I'm **Computer Engineering** student! <br>
-I have been studying **Java** as my main programming language, and work in my **JavaScript** skills too.
-currently working on improving my English to become fluent.<br>
-I enjoy about both digital and traditional art,using tools like Photoshop and my sketchbook to draw. 
-Passionate in **remixing music** tracks, audio editing and sound design.
-Play acoustic guitar and piano.
+Nice to meet you! I'm **Nathan**, a Computer Engineering student at Facens and an NEA Engineering intern at Splice Group (Votorantim). I'm focused on backend development, currently diving deeper into Golang, and I have a solid foundation in Java and C++. I build APIs, integrate services, and also work with frontend using React, as well as websites and mobile apps developed in Java.
+
+In my internship, I collaborate with the operations team and translate real-world processes into digital solutions. This experience has helped me strengthen my technical skills, communication, and problem-solving abilities.
+
+I'm looking for opportunities to grow as a backend developer, bring my full-stack perspective to real projects, and continue improving my English until reaching full fluency. Open to advanced internships and entry-level roles.
   
  ```
        |\---/|
