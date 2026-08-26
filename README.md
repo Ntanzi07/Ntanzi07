@@ -53,12 +53,14 @@ Tools
 </div>
 
 <br>
- ```
+
+<pre>
        |\---/|
        | ,_, |
         \_`_/-..----.
       ___/ `   ' ,""+ \
     (__...'   __\    |`.___.';
       (_,...'(_,.`__)/'.....+
- ```
+</pre>
+
 <hr> <img style="border-radius:10px" src="https://user-images.githubusercontent.com/138806744/276378874-92d4172c-125d-4a19-97e6-00764a5fb9c4.png">
